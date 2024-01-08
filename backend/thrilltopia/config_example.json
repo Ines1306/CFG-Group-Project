@@ -1,0 +1,14 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": "3306",
+        "user": "username",
+        "password": "your password",
+        "database_name": "Thrilltopia",
+        "db_api": "mysql://",
+        "echo": true
+    },
+    "forecast_api": {
+        "api_key": "YOUR_API_KEY"
+    }
+}
